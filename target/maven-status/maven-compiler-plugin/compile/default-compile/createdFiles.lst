@@ -1,7 +1,8 @@
-DeleteTasks.class
-JSONHandler.class
-Main.class
-UpdateTasks.class
-ListTasks.class
-AddTask.class
-TaskStatus.class
+com\tasktracker\AddTask.class
+com\tasktracker\Main.class
+com\tasktracker\UpdateTasks.class
+com\tasktracker\ListTasks.class
+com\tasktracker\TaskStatus.class
+com\tasktracker\DeleteTasks.class
+com\tasktracker\JSONHandler.class
+com\tasktracker\RemoveAll.class
