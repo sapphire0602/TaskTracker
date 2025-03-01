@@ -81,6 +81,6 @@ exit (In any case {upper/lower})
 The application stores tasks in a JSON file (`TaskFileList.json`) within the project directory, and used for persistence .
 
 ## Contributing
-Feel free to submit issues and pull requests to improve the Task Tracker.
+Please Feel free to submit issues and pull requests to improve the Task Tracker.
 
 
