@@ -2,7 +2,7 @@
 Task Manager With Java
 # Task Tracker CLI
 
-Task Tracker is a simple and efficient Command-Line Interface (CLI) application for managing tasks. It allows users to add, list, update, sort and delete tasks with ease.
+Task Tracker is a simple Command-Line Interface (CLI) application for managing tasks. It allows users to add, list, update, sort and delete tasks with ease.
 
 ## Features
 - Add new tasks with a title and description
