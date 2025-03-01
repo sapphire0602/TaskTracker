@@ -77,7 +77,7 @@ delete (In any case {upper/lower})
 exit (In any case {upper/lower})
 ```
 ## Project URL
-https://github.com/sapphire0602/TaskTracker
+https://roadmap.sh/projects/task-tracker
 
 ## File Storage
 The application stores tasks in a JSON file (`TaskFileList.json`) within the project directory, and used for persistence .
